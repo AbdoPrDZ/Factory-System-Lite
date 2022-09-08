@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493371924444",
+    "project_id": "factory-system-lite",
+    "storage_bucket": "factory-system-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493371924444:android:3180f56a093c09e0753919",
+        "android_client_info": {
+          "package_name": "com.abdo_pr.apps.factory_system_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493371924444-ffui085o2ooo1ouar3081u595uou50oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvV8i4YmVxldmhA0j7uTFz01P-FsjVG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493371924444-ffui085o2ooo1ouar3081u595uou50oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
